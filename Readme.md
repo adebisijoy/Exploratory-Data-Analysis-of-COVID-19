@@ -1,6 +1,6 @@
 # Covid19 Exploratory Data Analysis Dashboard
 
-This Project visualizes the analysis done on covid19.
+This Project analyzes and visualizes the data using SQL and Tableau
 
 ### Covid19 Data Analysis Dashboard
 
